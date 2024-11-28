@@ -47,6 +47,34 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
-
-
+{
+    'name': 'Conejito comiendo fresas',
+    'videoUrl': 'assets/videos/9.mp4',
+    'likes': 18210,
+    'views': 1210
+},
+{
+    'name': 'Perrito llorando',
+    'videoUrl': 'assets/videos/10.mp4',
+    'likes': 24560,
+    'views': 1735
+},
+{
+    'name': 'Conejito comiendo uvas',
+    'videoUrl': 'assets/videos/11.mp4',
+    'likes': 30950,
+    'views': 2150
+},
+{
+    'name': 'Cantante bebe cerveza como albañil',
+    'videoUrl': 'assets/videos/12.mp4',
+    'likes': 27640,
+    'views': 1980
+},
+{
+    'name': 'Danna cantando dos extraños',
+    'videoUrl': 'assets/videos/13.mp4',
+    'likes': 19830,
+    'views': 1440
+}
 ];
