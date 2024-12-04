@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class FullscreenPlayer extends StatelessWidget {
+class FullScreenPlayer extends StatelessWidget {
   final String videoUrl;
   final String caption;
 
-  const FullscreenPlayer(
+  const FullScreenPlayer(
       {super.key, 
       required this.videoUrl, 
       required this.caption});
