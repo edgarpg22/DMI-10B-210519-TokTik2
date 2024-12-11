@@ -48,31 +48,31 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 3332,
   },
 {
-    'name': 'Conejito comiendo fresas',
+    'name': 'Frases que llegan al alma',
     'videoUrl': 'assets/videos/9.mp4',
     'likes': 18210,
     'views': 1210
 },
 {
-    'name': 'Perrito llorando',
+    'name': 'Universidad',
     'videoUrl': 'assets/videos/10.mp4',
     'likes': 24560,
     'views': 1735
 },
 {
-    'name': 'Conejito comiendo uvas',
+    'name': 'Amigos peleando',
     'videoUrl': 'assets/videos/11.mp4',
     'likes': 30950,
     'views': 2150
 },
 {
-    'name': 'Cantante bebe cerveza como albañil',
+    'name': 'Princesa del pop latino',
     'videoUrl': 'assets/videos/12.mp4',
-    'likes': 27640,
+    'likes': 99964011,
     'views': 1980
 },
 {
-    'name': 'Danna cantando dos extraños',
+    'name': 'Etapa Universitaria',
     'videoUrl': 'assets/videos/13.mp4',
     'likes': 19830,
     'views': 1440
