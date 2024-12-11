@@ -47,6 +47,34 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
-
-
+{
+    'name': 'Frases que llegan al alma',
+    'videoUrl': 'assets/videos/9.mp4',
+    'likes': 18210,
+    'views': 1210
+},
+{
+    'name': 'Universidad',
+    'videoUrl': 'assets/videos/10.mp4',
+    'likes': 24560,
+    'views': 1735
+},
+{
+    'name': 'Amigos peleando',
+    'videoUrl': 'assets/videos/11.mp4',
+    'likes': 30950,
+    'views': 2150
+},
+{
+    'name': 'Princesa del pop latino',
+    'videoUrl': 'assets/videos/12.mp4',
+    'likes': 99964011,
+    'views': 1980
+},
+{
+    'name': 'Etapa Universitaria',
+    'videoUrl': 'assets/videos/13.mp4',
+    'likes': 19830,
+    'views': 1440
+}
 ];
